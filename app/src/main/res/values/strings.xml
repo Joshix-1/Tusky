@@ -724,6 +724,7 @@
     <string name="pref_title_reading_order">Reading order</string>
     <string name="pref_reading_order_oldest_first">Oldest first</string>
     <string name="pref_reading_order_newest_first">Newest first</string>
+    <string name="translate_noot">Translate</string>
 
     <!--@Tusky edited 19th December 2022 13:37 -->
     <string name="status_edit_info">%1$s edited %2$s</string>

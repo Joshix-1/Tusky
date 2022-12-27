@@ -630,4 +630,5 @@
     <string name="pref_summary_http_proxy_disabled">Вимкнено</string>
     <string name="pref_summary_http_proxy_missing">&lt;не налаштовано&gt;</string>
     <string name="pref_summary_http_proxy_invalid">&lt;недійсний&gt;</string>
+    <string name="translate_noot">Translate</string>
 </resources>
